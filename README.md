@@ -1,0 +1,1 @@
+Copyright © 2004 Chris Alley. Source code and other assets in this repository are provided for demonstration purposes only.
